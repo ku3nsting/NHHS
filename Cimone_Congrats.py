@@ -1,3 +1,4 @@
+print("*** *** *** *** ***")
 print("Congratulations Cimone!")
+print("*** *** *** *** ***")
 print("We're proud of you!")
-print("Should we call you Dr. Cimone now?")
